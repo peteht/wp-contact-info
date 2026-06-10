@@ -1,4 +1,4 @@
-Global Contact Info
+ARCHIVE: Global Contact Info
 ===============
 
 Wordpress Global Contact & Social Media Info Plugin
